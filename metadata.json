@@ -1,0 +1,6 @@
+{
+  "name": "UmrahSync Admin Dashboard",
+  "description": "Admin panel for Travel Umrah management featuring statistics, reporting, and jamaah tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
